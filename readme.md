@@ -14,11 +14,10 @@ RUC追课是2015年上架AppStore帮助人民大学同学找寻课堂小伙伴�
 ### 功能
 
 在RUC追课上，你可以通过姓名或者学号，将感兴趣的同学加入关注。然后你关注的同学的课程活动将会按时间顺序展示在你的时间线上。你还可以访问同学的RUC追课主页给TA留言。
-![登录界面](https://github.com/limitMe/ruc-class-follower-ios/blob/master/screenshots/P1.jpg)
-![添加关注人](https://github.com/limitMe/ruc-class-follower-ios/blob/master/screenshots/P4.jpg)
-![某同学的主页](https://github.com/limitMe/ruc-class-follower-ios/blob/master/screenshots/P2.jpg)
-![时间线](https://github.com/limitMe/ruc-class-follower-ios/blob/master/screenshots/P5.jpg)
-![时间点详情](https://github.com/limitMe/ruc-class-follower-ios/blob/master/screenshots/P3.jpg)
+
+|登录界面|添加关注人|某同学的主页|时间线|时间点详情|
+|:-:|:-:|:-:|:-:|:-:|
+|![登录界面](https://github.com/limitMe/ruc-class-follower-ios/blob/master/screenshots/P1.jpg)|![添加关注人](https://github.com/limitMe/ruc-class-follower-ios/blob/master/screenshots/P4.jpg)|![某同学的主页](https://github.com/limitMe/ruc-class-follower-ios/blob/master/screenshots/P2.jpg)|![时间线](https://github.com/limitMe/ruc-class-follower-ios/blob/master/screenshots/P5.jpg)|![时间点详情](https://github.com/limitMe/ruc-class-follower-ios/blob/master/screenshots/P3.jpg)|
 
 ### 架构
 
